@@ -86,8 +86,6 @@ Key findings may include:
 
 ## Business Recommendations
 
-*To be developed based on the actual analytical findings.*
-
 Recommendations may address:
 - Inventory planning based on product demand.
 - Marketing strategies for high-performing pizza categories.
@@ -95,22 +93,16 @@ Recommendations may address:
 - Promotional strategies based on observed sales patterns.
 
 ## Project Structure
-
-```text
 pizza-sales-analysis/
 ├── README.md
 ├── excel/
-│   └── pizza_sales_analysis.xlsx
+│   ├── Pizza Sales Dashboard.pdf
+│   ├── Pizza.xlsx
+│   └── Video Pizza Sales Dashboard.mp4
 ├── python/
-│   └── pizza_sales_analysis.ipynb
-├── sql/
-│   └── pizza_sales_analysis.sql
-└── visuals/
-    ├── revenue_by_category.png
-    └── revenue_contribution.png
-```
-
-*The structure and filenames are illustrative and should be adjusted to match the actual repository contents.*
+│   └── Pizza_Sales_Analytics.ipynb
+└── sql/
+    └── SQL_Pizza_Sales_Analytics.ipynb
 
 ## Conclusion
 
