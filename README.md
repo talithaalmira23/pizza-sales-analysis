@@ -99,18 +99,6 @@ Key findings may include:
 - Peak Hour Staffing: Use hourly transaction logs (hour) to structure kitchen staff and delivery driver schedules around peak order times, ensuring shorter preparation times and improved customer satisfaction.
 - Off-Peak Promotional Campaigns: Introduce targeted "Happy Hour" discounts or mid-week promotions during slow operational hours to balance store capacity and maximize equipment usage throughout the day.
 
-## Project Structure
-pizza-sales-analysis/
-├── README.md
-├── excel/
-│   ├── Pizza Sales Dashboard.pdf
-│   ├── Pizza.xlsx
-│   └── Video Pizza Sales Dashboard.mp4
-├── python/
-│   └── Pizza_Sales_Analytics.ipynb
-└── sql/
-    └── SQL_Pizza_Sales_Analytics.ipynb
-
 ## Conclusion
 
 This project demonstrates the application of Microsoft Excel, Python, and SQL to the same pizza sales analysis workflow. By implementing the analysis in three different tools and cross-validating the results, the project showcases practical skills in data preparation, querying, calculations, visualization, and analytical validation.
