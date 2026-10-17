@@ -86,11 +86,18 @@ Key findings may include:
 
 ## Business Recommendations
 
-Recommendations may address:
-- Inventory planning based on product demand.
-- Marketing strategies for high-performing pizza categories.
-- Opportunities to improve sales performance.
-- Promotional strategies based on observed sales patterns.
+1. Revenue & Menu Optimization Strategy
+- High-Margin Menu Bundling: Combine high-value items like The Thai Chicken Pizza ($43,434.25 total revenue) and The California Chicken Pizza with secondary high-margin sides or drinks. Creating themed "Premium Combo Deals" will increase the overall Average Order Value (AOV) above the current $38.31 benchmark.
+- Volume Leader Cross-Selling: Leverage popular volume sellers like The Classic Deluxe Pizza (2,453 units sold) and The Hawaiian Pizza (2,422 units) as anchor items in family-style bundles to clear excess stock or promote newer menu items.
+- Menu Engineering & Layout: Redesign physical and digital menus to highlight top revenue drivers (Thai Chicken, Barbecue Chicken, and California Chicken) at the primary focal points to encourage higher-ticket purchases.
+
+2. Supply Chain & Inventory Control
+- Ingredient Forecasting: Align inventory management strictly with sales volume. Key ingredients for The Barbecue Chicken Pizza—a top performer in both units sold and total revenue—must be prioritized in stock replenishment to eliminate out-of-stock scenarios.
+- Perishable Waste Reduction: Tailor prep levels based on daily volume patterns (day_name) to ensure dough and fresh toppings are prepared efficiently, minimizing food waste during slow days.
+
+3. Operational & Staffing Efficiency
+- Peak Hour Staffing: Use hourly transaction logs (hour) to structure kitchen staff and delivery driver schedules around peak order times, ensuring shorter preparation times and improved customer satisfaction.
+- Off-Peak Promotional Campaigns: Introduce targeted "Happy Hour" discounts or mid-week promotions during slow operational hours to balance store capacity and maximize equipment usage throughout the day.
 
 ## Project Structure
 pizza-sales-analysis/
